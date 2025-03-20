@@ -58,7 +58,7 @@ p {
 
 .nav{
     position: fixed;
-    bottom: 2rem;
+    bottom: 1rem;
     left: 50%;
     transform: translateX(-50%);
     width: 40rem;
@@ -91,7 +91,7 @@ p {
 .nav-list li {
     position: relative;
     display: flex;
-    font-size: 3rem;
+    font-size: 2rem;
     cursor: pointer;
     transition: .3s;
 }
